@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625915913441",
+    "project_id": "dreambc-147db",
+    "storage_bucket": "dreambc-147db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625915913441:android:8fdef55c6d6850d83043a0",
+        "android_client_info": {
+          "package_name": "com.dboxc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZ6uGpuALcZdevEfhleeNCIaa_te0d8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
